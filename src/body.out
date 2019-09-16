@@ -1,0 +1,58 @@
+
+		<!doctype html>
+		<html lang='en'>
+		<head>
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+			<script async src='https://www.googletagmanager.com/gtag/js?id=UA-81425336-1'></script>
+			<script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+				gtag('config', 'UA-81425336-1');
+			</script>
+			<title>Haunted House Apps</title>
+			<meta charset='UTF-8'>
+			<meta name='viewport' content='width=device-width, initial-scale=1.0 '>
+			<link rel='apple-touch-icon' sizes='180x180' href='/images/favicons/apple-touch-icon.png?v2018=00zz3proG5'>
+			<link rel='icon' type='image/png' sizes='32x32' href='/images/favicons/favicon-32x32.png?v2018=00zz3proG5'>
+			<link rel='icon' type='image/png' sizes='16x16' href='/images/favicons/favicon-16x16.png?v2018=00zz3proG5'>
+			<link rel='manifest' href='/images/favicons/site.webmanifest?v2018=00zz3proG5'>
+			<link rel='mask-icon' href='/images/favicons/safari-pinned-tab.svg?v2018=00zz3proG5' color='#dd2222'>
+			<link rel='shortcut icon' href='/images/favicons/favicon.ico?v2018=00zz3proG5'>
+			<meta name='apple-mobile-web-app-title' content='SV Haunt'>
+			<meta name='application-name' content='SV Haunt'>
+			<meta name='msapplication-TileColor' content='#603cba'>
+			<meta name='msapplication-config' content='/images/favicons/browserconfig.xml?v2018=00zz3proG5'>
+			<link href='https://svhaunt.org/functions/svhaunt.css?p=7' rel='stylesheet'>
+			<script src='https://svhaunt.org/functions/svhaunt.js'></script>
+		</head>
+		<body>
+	<style>
+a:link, a:visited {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	color: #FFF;
+}
+.appButton {
+	width: 240px;
+	height: 60px;
+	color: #000;
+	background: linear-gradient(to bottom, #B11, #F66);
+	border: solid #300;
+	font-size: 1.25em;
+	text-align: center;
+	text-decoration: none !important;
+	padding-top: 15px;
+	box-shadow: 0 4px 8px 0 rgba(191,0,0,0.7);
+	margin-bottom: 36px;
+	box-sizing: border-box;
+}
+</style>
+<h2 style='color: red'>  • </h2></div><h2>Account</h2><div class='flexbox' >
+<span class='appButton'><a href='../account/drop.php'>Drop</a></span><span class='appButton'><a href='../account/login.php'>Login</a></span><span class='appButton'><a href='../account/register.php'>Register</a></span><span class='appButton'><a href='../account/terms.php'>Terms</a></span></div><h2>Displays</h2><div class='flexbox' >
+<span class='appButton'><a href='../displays/photos.php'>Photos</a></span><span class='appButton'><a href='../displays/printouts.php'>Printouts</a></span><span class='appButton'><a href='../displays/public.php'>Public</a></span></div><h2>Rooms</h2><div class='flexbox' >
+<span class='appButton'><a href='../rooms/map.php'>Map</a></span></div><h2>Schedules</h2><div class='flexbox' >
+<span class='appButton'><a href='../schedules/schedule.php'>Schedule</a></span></body>
+</html>

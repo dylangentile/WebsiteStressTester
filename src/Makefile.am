@@ -14,5 +14,5 @@ webTest_LDFLAGS =
 # <binary_name>_SOURCES takes a space delimited list of the source code files
 # that need to be compiled/linked to build the binary.
 AM_CXXFLAGS = -std=c++17
-webTest_SOURCES = main.cpp
+webTest_SOURCES = main.cpp response.cpp get.cpp
 AM_CPPFLAGS = -I../include
